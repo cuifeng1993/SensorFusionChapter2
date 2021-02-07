@@ -13,7 +13,7 @@
 ## homework
 
 ### 给出模型基于evo的精度评测结果
-测评结果优于pcl的ndt和icp方法，与pcl中的ndt方法的对比图如下：
+测评结果优于pcl的ndt和icp方法，与pcl中的ndt方法的对比图如下，其中左侧为pcl的ndt方法，右侧为手写icp_svd方法：
 
 <img src="doc/pcl的ndt和手写icp比较.png" alt="pcl的ndt和手写icp_svd比较" width="100%">
 
