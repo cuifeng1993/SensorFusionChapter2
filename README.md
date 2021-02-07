@@ -18,3 +18,7 @@
 <img src="doc/pcl的ndt和手写icp比较.png" alt="pcl的ndt和手写icp_svd比较" width="100%">
 
 evo测评图见文件夹[点击链接进入](doc/)
+
+
+### 可以进一步优化的点
+可以参考SICP，判断SVD分解后求得的R行列式的正负，如果为负，取-R为最优值。
